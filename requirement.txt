@@ -1,0 +1,5 @@
+wxPython==4.1.1
+attrdict
+neptune-cli
+psychopy
+pyOpenBCI
